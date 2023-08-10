@@ -1,0 +1,26 @@
+{
+    "game1": {
+        "url": "https://www.youtube.com/watch?v=jQ1l5zenaKY",
+        "title": "Super Bowl 54 - Kansas City Chiefs vs San Francisco 49ers",
+        "mini": "lib/assets/miniatures/sb54_kc_sf_020220.png",
+        "duration": "2:06:12",
+        "date": "02/02/2020",
+        "description": "Después de 50 años de haber obtenido su único Super Bowl, los Kansas City Chiefs se enfrentan a los 49ers de San Francisco, y a 6 minutos de terminar el partido, les arrebatan el triunfo para obtener su segundo Super Bowl"
+    },
+    "game2": {
+        "url": "https://www.youtube.com/watch?v=nTyk2Hngugw",
+        "title": "Kansas City Chiefs vs Los Angeles Rams",
+        "mini": "lib/assets/miniatures/kc_la_19112018.png",
+        "duration": "2:55:06",
+        "date": "19/11/2018",
+        "description": "El partido que ha sido considerado como el mejor MNF de la historia. Un partido que iba a jugarse en la Ciudad de México, pero por el mal estado del césped del estadio Azteca fue trasladado a Los Angeles"
+    },
+    "game3": {
+        "url": "https://www.youtube.com/results?search_query=kansas+city+chiefs+full+game",
+        "title": "Baltimore Ravens vs Kansas City Chiefs",
+        "mini": "lib/assets/miniatures/bal_kc_28092020",
+        "duration": "2:01:16",
+        "date": "28/09/2020",
+        "description": "Partido de la temporada 2020, se enfrentaban el Jugador Más Valioso de la temporada 2019, Lamar Jackson (Ravens) contra Patrick Mahomes, Jugador Más Valioso del Super Bowl 54"
+    }
+}

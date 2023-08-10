@@ -15,7 +15,7 @@ class _StartScreenState extends State<StartScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'KC TV',
+          'Games TV',
           style: Theme.of(context).textTheme.headlineLarge,
         ),
       ),
@@ -27,7 +27,7 @@ class _StartScreenState extends State<StartScreen> {
               'Recomendado para ti',
               style: Theme.of(context).textTheme.headlineLarge,
             ),
-            const Suggestion_Card()
+            const SuggestionCard()
           ],
         ),
       ),
