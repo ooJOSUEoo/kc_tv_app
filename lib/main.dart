@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'KC TV',
+      title: 'Games TV',
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.black,
         primaryColor: Colors.redAccent, 

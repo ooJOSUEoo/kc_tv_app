@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kc_tv_app/widgets/suggestion_card.dart';
 
 
 class StartScreen extends StatefulWidget {
@@ -23,9 +24,10 @@ class _StartScreenState extends State<StartScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Targetas de recomendacioones',
-              style: Theme.of(context).textTheme.bodyMedium,
+              'Recomendado para ti',
+              style: Theme.of(context).textTheme.headlineLarge,
             ),
+            const Suggestion_Card()
           ],
         ),
       ),
@@ -33,7 +35,7 @@ class _StartScreenState extends State<StartScreen> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.gamepad_outlined),
-            label: 'Games',
+            label: 'Home',
             backgroundColor: Colors.red,
           ),
           BottomNavigationBarItem(
