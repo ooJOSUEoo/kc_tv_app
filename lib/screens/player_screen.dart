@@ -35,6 +35,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         enableCaption: true,
       )
     );
+    // ..addListener(listener)
   }
 
   @override

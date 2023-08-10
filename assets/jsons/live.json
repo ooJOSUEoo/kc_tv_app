@@ -1,26 +1,26 @@
 {
-    "game1": {
-        "url": "https://www.youtube.com/watch?v=jQ1l5zenaKY",
-        "title": "Super Bowl 54 - Kansas City Chiefs vs San Francisco 49ers",
-        "mini": "lib/assets/miniatures/sb54_kc_sf_020220.png",
-        "duration": "2:06:12",
-        "date": "02/02/2020",
-        "description": "Después de 50 años de haber obtenido su único Super Bowl, los Kansas City Chiefs se enfrentan a los 49ers de San Francisco, y a 6 minutos de terminar el partido, les arrebatan el triunfo para obtener su segundo Super Bowl"
+    "live1": {
+        "url": "https://www.youtube.com/watch?v=XeoYDWZOR0Q&pp=ygUfQ3JlYXRpdmlkYWQgZW4gbG9zIEp1ZWdvcyBJbmRpZQ%3D%3D",
+        "title": "En Vivo: Explorando la Creatividad en los Juegos Indie",
+        "miniatura": "lib/assets/images/miniaturas/indies.jpg",
+        "duración": "En Vivo",
+        "fecha": "03/10/2023",
+        "descripción": "Acompáñanos en esta transmisión en vivo mientras exploramos el fascinante mundo de los juegos indie. Descubriremos títulos únicos, debatiremos sobre la creatividad en el desarrollo y apoyaremos a los desarrolladores independientes en tiempo real."
     },
-    "game2": {
-        "url": "https://www.youtube.com/watch?v=nTyk2Hngugw",
-        "title": "Kansas City Chiefs vs Los Angeles Rams",
-        "mini": "lib/assets/miniatures/kc_la_19112018.png",
-        "duration": "2:55:06",
-        "date": "19/11/2018",
-        "description": "El partido que ha sido considerado como el mejor MNF de la historia. Un partido que iba a jugarse en la Ciudad de México, pero por el mal estado del césped del estadio Azteca fue trasladado a Los Angeles"
+    "live2": {
+        "url": "https://www.youtube.com/watch?v=Opgp0galsTk&pp=ygULQXJlbmEgTmV4dXM%3D",
+        "title": "En Directo: Torneo Intergaláctico en Arena Nexus",
+        "miniatura": "lib/assets/images/miniaturas/nexus.jpg",
+        "duración": "En Vivo",
+        "fecha": "12/09/2023",
+        "descripción": "Únete a esta transmisión en vivo del torneo intergaláctico de Arena Nexus, donde los mejores jugadores de diferentes planetas compiten en emocionantes batallas. Presencia estrategias únicas y enfrentamientos intensos en tiempo real."
     },
-    "game3": {
-        "url": "https://www.youtube.com/results?search_query=kansas+city+chiefs+full+game",
-        "title": "Baltimore Ravens vs Kansas City Chiefs",
-        "mini": "lib/assets/miniatures/bal_kc_28092020",
-        "duration": "2:01:16",
-        "date": "28/09/2020",
-        "description": "Partido de la temporada 2020, se enfrentaban el Jugador Más Valioso de la temporada 2019, Lamar Jackson (Ravens) contra Patrick Mahomes, Jugador Más Valioso del Super Bowl 54"
+    "live3": {
+        "url": "https://www.youtube.com/watch?v=2lzQvNYd-dU&pp=ygUiUmV2aXZpZW5kbyBTZXNpw7NuIGRlIEp1ZWdvcyBSZXRybw%3D%3D",
+        "title": "En Vivo: Reviviendo los Clásicos - Sesión de Juegos Retro",
+        "miniatura": "lib/assets/images/miniaturas/retro.jpg",
+        "duración": "En Vivo",
+        "fecha": "03/10/2023",
+        "descripción": "Sintoniza esta transmisión en vivo donde nos sumergiremos en una sesión nostálgica de juegos retro. Desde plataformas clásicas hasta arcades legendarios, reviviremos los momentos icónicos de los videojuegos del pasado en tiempo real."
     }
 }

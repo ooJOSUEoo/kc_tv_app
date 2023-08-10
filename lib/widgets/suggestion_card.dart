@@ -13,12 +13,9 @@ class SuggestionCard extends StatelessWidget {
         ),
         ClipRRect(
           borderRadius: BorderRadius.circular(40),
-          child: const Image(
-            width: 400,
-            height: 200,
-            //https://filesedc.com/uploads/198/img/2022/02/1200/manos-sujetando-el-mando-de-una-play-station-con-un-videojuego-de-fondo-620a5b26cd3b3.jpg
-            image: NetworkImage('https://filesedc.com/uploads/198/img/2022/02/1200/manos-sujetando-el-mando-de-una-play-station-con-un-videojuego-de-fondo-620a5b26cd3b3.jpg'),
-          ),
+           child: const Image(
+             image: AssetImage('assets/images/recomendados.jpg'),
+           ),
         ),
          Column(
           children: [
