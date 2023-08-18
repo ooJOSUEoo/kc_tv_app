@@ -1,26 +1,26 @@
-{
-    "video1": {
+{"all":[
+    {
         "url": "https://www.youtube.com/watch?v=aaK_41PoZdo&pp=ygUwR2FtZXBsYXk6IEN5YmVycHVuayAyMDc3IC0gRXhwbG9yYW5kbyBOaWdodCBDaXR5",
         "title": "Gameplay: Cyberpunk 2077 - Explorando Night City",
-        "miniatura": "lib/assets/images/miniaturas/Cyberpunk 2077.jpg",
-        "duración": "1:45:30",
+        "miniatura": "assets/images/miniaturas/Cyberpunk 2077.jpg",
+        "duracion": "1:45:30",
         "fecha": "15/12/2021",
-        "descripción": "Acompáñanos mientras nos sumergimos en el mundo inmersivo de Cyberpunk 2077, explorando las vibrantes calles de Night City y descubriendo sus secretos."
+        "descripcion": "Acompáñanos mientras nos sumergimos en el mundo inmersivo de Cyberpunk 2077, explorando las vibrantes calles de Night City y descubriendo sus secretos."
     },
-    "video2": {
+    {
         "url": "https://www.youtube.com/watch?v=tl9ITPJpw3c&pp=ygUqTXVlc3RyYSBkZSBKdWVnb3M6IFRoZSBMYXN0IG9mIFVzIFBhcnRlIElJ",
         "title": "Muestra de Juegos: The Last of Us Parte II",
-        "miniatura": "lib/assets/images/miniaturas/thelastofusll.jpg",
-        "duración": "3:20:45",
+        "miniatura": "assets/images/miniaturas/thelastofusll.jpg",
+        "duracion": "3:20:45",
         "fecha": "05/06/2020",
-        "descripción": "Un profundo análisis del viaje emocional de The Last of Us Parte II, con impresionantes visuales y momentos de juego intensos que lo convierten en una obra maestra del gaming."
+        "descripcion": "Un profundo análisis del viaje emocional de The Last of Us Parte II, con impresionantes visuales y momentos de juego intensos que lo convierten en una obra maestra del gaming."
     },
-    "video3": {
+    {
         "url": "https://www.youtube.com/watch?v=CeYKswOOD6c&pp=ygUoUmVjb3BpbGFjacOzbiBkZSDDiXBpY29zIE1vbWVudG9zIEdhbWluZw%3D%3D",
         "title": "Recopilación de Épicos Momentos Gaming",
-        "miniatura": "lib/assets/images/miniaturas/recopilacion-momentos.jpg",
-        "duración": "2:15:18",
+        "miniatura": "assets/images/miniaturas/recopilacion-momentos.jpg",
+        "duracion": "2:15:18",
         "fecha": "10/11/2022",
-        "descripción": "Prepárate para presenciar una colección de los momentos de gaming más impactantes e inolvidables en diversos títulos. Desde jugadas excepcionales hasta hazañas increíbles, esta compilación lo tiene todo."
+        "descripcion": "Prepárate para presenciar una colección de los momentos de gaming más impactantes e inolvidables en diversos títulos. Desde jugadas excepcionales hasta hazañas increíbles, esta compilación lo tiene todo."
     }
-}
+]}

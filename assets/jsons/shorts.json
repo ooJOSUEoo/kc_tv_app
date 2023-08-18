@@ -1,0 +1,26 @@
+{"shorts":[
+    {
+        "url": "https://www.youtube.com/shorts/opb3_ulaAyk",
+        "title": "Momento Épico: Triple Eliminación en Apex Legends",
+        "miniatura": "assets/images/miniaturas/apex.jpg",
+        "duracion": "0:45",
+        "fecha": "05/08/2023",  
+        "descripcion": "No te pierdas este increíble momento en Apex Legends, donde logramos una triple eliminación con habilidades impecables. ¡La victoria nunca se sintió tan dulce en menos de un minuto!"
+    },
+    {
+        "url": "https://www.youtube.com/shorts/4xyFmWhsR3g",
+        "title": "Bloopers Divertidos: Fallos Épicos en Fall Guys",
+        "miniatura": "assets/images/miniaturas/fallos.jpg",
+        "duracion": "0:30",
+        "fecha": "17/09/2023",
+        "descripcion": "Prepárate para reír a carcajadas con esta compilación de fallos épicos en Fall Guys. Desde caídas torpes hasta saltos mal calculados, los bloopers más graciosos te esperan."
+    },
+    {
+        "url": "https://www.youtube.com/shorts/M4DqYsq5vA0",
+        "title": "Mejores Jugadas: Destacados de Partidas Cortas",
+        "miniatura": "assets/images/miniaturas/partidasCortas.jpg",
+        "duracion": "0:50",
+        "fecha": "22/10/2023",
+        "descripcion": "Sumérgete en este emocionante resumen de las mejores jugadas capturadas en partidas cortas de diferentes videojuegos. Desde disparos imposibles hasta movimientos estratégicos, estos highlights te dejarán boquiabierto."
+    }
+]}

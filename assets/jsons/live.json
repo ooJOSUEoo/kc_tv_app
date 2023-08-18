@@ -1,26 +1,26 @@
-{
-    "live1": {
+{"live":[
+    {
         "url": "https://www.youtube.com/watch?v=XeoYDWZOR0Q&pp=ygUfQ3JlYXRpdmlkYWQgZW4gbG9zIEp1ZWdvcyBJbmRpZQ%3D%3D",
         "title": "En Vivo: Explorando la Creatividad en los Juegos Indie",
-        "miniatura": "lib/assets/images/miniaturas/indies.jpg",
-        "duración": "En Vivo",
+        "miniatura": "assets/images/miniaturas/indies.jpg",
+        "duracion": "En Vivo",
         "fecha": "03/10/2023",
-        "descripción": "Acompáñanos en esta transmisión en vivo mientras exploramos el fascinante mundo de los juegos indie. Descubriremos títulos únicos, debatiremos sobre la creatividad en el desarrollo y apoyaremos a los desarrolladores independientes en tiempo real."
+        "descripcion": "Acompáñanos en esta transmisión en vivo mientras exploramos el fascinante mundo de los juegos indie. Descubriremos títulos únicos, debatiremos sobre la creatividad en el desarrollo y apoyaremos a los desarrolladores independientes en tiempo real."
     },
-    "live2": {
+    {
         "url": "https://www.youtube.com/watch?v=Opgp0galsTk&pp=ygULQXJlbmEgTmV4dXM%3D",
         "title": "En Directo: Torneo Intergaláctico en Arena Nexus",
-        "miniatura": "lib/assets/images/miniaturas/nexus.jpg",
-        "duración": "En Vivo",
+        "miniatura": "assets/images/miniaturas/nexus.jpg",
+        "duracion": "En Vivo",
         "fecha": "12/09/2023",
-        "descripción": "Únete a esta transmisión en vivo del torneo intergaláctico de Arena Nexus, donde los mejores jugadores de diferentes planetas compiten en emocionantes batallas. Presencia estrategias únicas y enfrentamientos intensos en tiempo real."
+        "descripcion": "Únete a esta transmisión en vivo del torneo intergaláctico de Arena Nexus, donde los mejores jugadores de diferentes planetas compiten en emocionantes batallas. Presencia estrategias únicas y enfrentamientos intensos en tiempo real."
     },
-    "live3": {
+    {
         "url": "https://www.youtube.com/watch?v=2lzQvNYd-dU&pp=ygUiUmV2aXZpZW5kbyBTZXNpw7NuIGRlIEp1ZWdvcyBSZXRybw%3D%3D",
         "title": "En Vivo: Reviviendo los Clásicos - Sesión de Juegos Retro",
-        "miniatura": "lib/assets/images/miniaturas/retro.jpg",
-        "duración": "En Vivo",
+        "miniatura": "assets/images/miniaturas/retro.jpg",
+        "duracion": "En Vivo",
         "fecha": "03/10/2023",
-        "descripción": "Sintoniza esta transmisión en vivo donde nos sumergiremos en una sesión nostálgica de juegos retro. Desde plataformas clásicas hasta arcades legendarios, reviviremos los momentos icónicos de los videojuegos del pasado en tiempo real."
+        "descripcion": "Sintoniza esta transmisión en vivo donde nos sumergiremos en una sesión nostálgica de juegos retro. Desde plataformas clásicas hasta arcades legendarios, reviviremos los momentos icónicos de los videojuegos del pasado en tiempo real."
     }
-}
+]}

@@ -23,9 +23,15 @@ class MyApp extends StatelessWidget {
         textTheme: const TextTheme(
           headlineLarge: TextStyle(
             color: Colors.white,
-            fontSize: 40,
+            fontSize: 30,
             fontWeight: FontWeight.bold,
             fontFamily: 'Helvetica',
+          ),
+          headlineMedium: TextStyle(
+            fontSize: 20,
+          ),
+          headlineSmall: TextStyle(
+            fontSize: 16,
           ),
           bodyMedium: TextStyle(
             color: Colors.white,
